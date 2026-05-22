@@ -83,4 +83,8 @@ The app uses `Tweets.csv`, which contains ~14,000 tweets about US Airlines inclu
 
 ## 🙌 Acknowledgements
 
-Dataset sourced from the [Crowdflower Twitter US Airline Sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) dataset on Kaggle.<img width="1366" height="731" alt="Screenshot 2026-05-19 132737" src="https://github.com/user-attachments/assets/3bebf8cd-fe81-4b82-a56a-c28dbf012ad9" />
+Dataset sourced from the [Crowdflower Twitter US Airline Sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) dataset on Kaggle.<img 
+
+Uploading Streamlit - Work - Microsoft​ Edge 2026-05-19 13-35-57.mp4…
+
+
