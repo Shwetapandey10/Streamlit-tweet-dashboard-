@@ -1,4 +1,4 @@
-# 🐦 StreamlitTweet — Interactive Twitter Sentiment Dashboard
+# StreamlitTweet — Interactive Twitter Sentiment Dashboard
 
 A **Streamlit** web app for real-time sentiment analysis of tweets about US Airlines, featuring interactive charts, filtering, and word clouds.
 
@@ -46,7 +46,7 @@ StreamlitTweet is a powerful, interactive dashboard built with Streamlit that le
 | [WordCloud](https://github.com/amueller/word_cloud) | Word cloud generation |
 | [Matplotlib](https://matplotlib.org/) | Word cloud rendering |
 
-## 📁 Project Structure
+## Project Structure
 ├── app.py          # Main Streamlit application
 ├── Tweets.csv      # Dataset of tweets about US Airlines
 
@@ -75,16 +75,16 @@ StreamlitTweet is a powerful, interactive dashboard built with Streamlit that le
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The app uses `Tweets.csv`, which contains ~14,000 tweets about US Airlines including sentiment labels (positive, neutral, negative) and airline names (United, US Airways, American, Southwest, Delta, Virgin America).
 
 ---
 
-## 🙌 Acknowledgements
+## 
+
+Acknowledgements
 
 Dataset sourced from the [Crowdflower Twitter US Airline Sentiment](https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment) dataset on Kaggle.<img 
-
-Uploading Streamlit - Work - Microsoft​ Edge 2026-05-19 13-35-57.mp4…
 
 
